@@ -67,7 +67,13 @@ export const MediaInformations = [
     image: Tripod,
     title: 'Mengenal Jenis Tripod dan Masing-Masing Kelebihannya',
     description:
-      'Tripod adalah komponen penting dalam dunia fotografi untuk memudahkan Anda untuk meletakkan kamera agar tidak mudah goyang terlebih untuk jangka waktu yang panjan',
+      'Tripod adalah komponen penting dalam dunia fotografi untuk memudahkan Anda untuk meletakkan kamera agar tidak mudah goyang terlebih untuk jangka waktu yang panjang',
+  },
+  {
+    image: Handphone,
+    title: '3 Rekomendasi Handphone yang Bisa Anda Beli dengan Spesifikasi',
+    description:
+      'Handphone menjadi kebutuhan penting untuk komunikasi. Dulunya handphone hanya bisa digunakan untuk telepon maupun SMS namun lambat laun fungsinya menjadi lebih kompleks',
   },
   {
     image: Kamera,
